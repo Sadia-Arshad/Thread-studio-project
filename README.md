@@ -5,9 +5,11 @@ WordPress + WooCommerce e-commerce store built with Hello Elementor theme, Rank 
 🔗 Live Website: https://www.threadstudioofficial.com
 
 ## Screenshots
-images/threadstudioofficial.png
-images/threadstudioofficial-mob.png
-images/threadstudioofficial-shop.png
+![Homepage](images/threadstudioofficial.png)
+![Homepage](images/threadstudioofficial-mob.png)
+![Homepage](images/threadstudioofficial.png)
+
+
 ## Project Overview
 A fully functional women's fashion e-commerce store built on 
 WordPress for a Pakistani clothing brand.
